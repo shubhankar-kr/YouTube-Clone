@@ -1,0 +1,20 @@
+.l-panel{
+    background:white;
+    position: fixed;
+    top: 45px;
+    left:0px;
+    width:70px;
+    height:300px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.l-icon{
+    width:23px;
+}
+figcaption{
+    
+    font-size:8px;
+}
